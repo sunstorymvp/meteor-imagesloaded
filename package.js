@@ -1,7 +1,7 @@
 Package.describe({
   name: 'sunstory:meteor-imagesloaded',
-  summary: 'imagesLoaded packaged for Meteor.',
-  version: '1.0.0',
+  summary: 'imagesLoaded v3.2.0 packaged for Meteor.',
+  version: '1.0.1',
   git: 'https://github.com/sunstorymvp/meteor-imagesloaded.git'
 });
 

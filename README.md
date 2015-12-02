@@ -1,7 +1,5 @@
 # meteor-imagesloaded
-imagesLoaded packaged for Meteor.
-
-v3.2.0, [API](https://github.com/desandro/imagesloaded)
+[imagesLoaded](https://github.com/desandro/imagesloaded) v3.2.0 packaged for Meteor.
 
 ### Install
 
